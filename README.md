@@ -7,4 +7,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non dui nec ipsum fr
 - [ ] lorem
 - [ ] ipsum
 - [x] malena è in giardino
-- [ ] solve case ip not found -> continue to wait forever
