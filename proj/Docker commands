@@ -1,6 +1,6 @@
 Docker commands used to create the image and the containers
 - docker build . -t dock
-- docker run --name ether_client -ti -v /Users/david/Documents/erasmus/erasmus\ esami/RC_TCP3:/tmp dock bin/bash
 - docker run --name ether_server1 -ti -v /Users/david/Documents/erasmus/erasmus\ esami/RC_TCP3:/tmp dock bin/bash
 - docker run --name ether_server2 -ti -v /Users/david/Documents/erasmus/erasmus\ esami/RC_TCP3:/tmp dock bin/bash
 - docker run --name ether_server3 -ti -v /Users/david/Documents/erasmus/erasmus\ esami/RC_TCP3:/tmp dock bin/bash
+- docker run --name ether_client -ti -v /Users/david/Documents/erasmus/erasmus\ esami/RC_TCP3:/tmp dock bin/bash
